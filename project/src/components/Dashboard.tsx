@@ -474,7 +474,7 @@ export function Dashboard({ username, isDarkMode, setIsDarkMode, userData, setUs
                 <Menu className="h-6 w-6 text-gray-600 dark:text-gray-300" />
               )}
             </button>
-            <h1 className="text-2xl font-semibold text-gray-900 dark:text-white">
+            <h1 className="text-5xl font-semibold text-gray-1300 dark:text-blue">
               Healthcare Dashboard
             </h1>
           </div>
